@@ -1,2 +1,2 @@
-{host}api/registration
+{host}api/registration <br>
 {host}api/login
